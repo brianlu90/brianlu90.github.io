@@ -466,7 +466,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/po-yen-lu", "_blank");
+          window.open("https://www.linkedin.com/in/po-yen-brian-lu", "_blank");
         },
       },{
       id: 'light-theme',
