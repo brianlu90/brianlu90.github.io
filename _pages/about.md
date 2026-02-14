@@ -6,7 +6,7 @@ subtitle: Seeking a PhD position starting from 2027 Fall.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: po_yen_lu_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
