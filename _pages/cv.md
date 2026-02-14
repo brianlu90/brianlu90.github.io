@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf: Po_Yen_Lu_CV.pdf # you can also use external links here
-description: Check the PDF for additional details.
+description: Check the PDF file for additional details.
 toc:
   sidebar: left
 ---
