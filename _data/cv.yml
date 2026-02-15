@@ -13,20 +13,20 @@
   contents:
     - title: M.S. in Electrical Engineering
       institution: National Tsing Hua University, Hsinchu, Taiwan
-      year: 09.2023 - 08.2026
+      year: 09.2023 - Present
       description:
         - Advised by Professor Chao-Tsung Huang
     - title: B.S. in Electrical Engineering
       institution: National Tsing Hua University, Hsinchu, Taiwan
       year: 09.2019 - 06.2023
       description:
-        - Selected Courses | Introduction to IC Design, Computer Architecture, Advanced Digital Design Flow
-        - Overall GPA | 4.2/4.3 (Rank 4/109)
+        - Selected Courses - Introduction to IC Design, Computer Architecture, Advanced Digital Design Flow
+        - Overall GPA - 4.2/4.3 (Rank 4/109)
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Student Researcher
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
