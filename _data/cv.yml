@@ -11,17 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Electrical Engineering
+    - title: M.S. in Electrical Engineering
       institution: National Tsing Hua University, Hsinchu, Taiwan
       year: Sep. 2023 - Aug. 2026
       description:
         - Advised by Professor Chao-Tsung Huang
-    - title: Bachelor of Science in Electrical Engineering
+    - title: B.S. in Electrical Engineering
       institution: National Tsing Hua University, Hsinchu, Taiwan
       year: Sep. 2019 - Jun. 2023
       description:
-        - 
-        - Description 2.
+        - Selected Courses | Introduction to IC Design, Computer Architecture, Advanced Digital Design Flow
+        - Overall GPA | 4.2/4.3 (Rank: 4/109)
 
 - title: Experience
   type: time_table
