@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a master’s student in Electrical Engineering at National Tsing Hua University, Taiwan, advised by Prof. Chao-Tsung Huang. My research interests focus on algorithm-hardware co-optimization and VLSI architecture design for computer vision and deep learning applications.
+I am currently a master’s student in Electrical Engineering at National Tsing Hua University, Taiwan, advised by Professor Chao-Tsung Huang. My research focuses on algorithm-hardware co-optimization and VLSI architecture design for computer vision and deep learning applications.
 
 I have hands-on experience leading a digital VLSI tape-out project using a cell-based design flow in 16nm FinFET technology. I am also the first author of a paper presented at ISSCC.
