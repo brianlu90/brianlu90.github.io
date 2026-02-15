@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Po-Yen (Brian) Lu
+    - name: E-mail
+      value: brianlu@gmail.com
+    - name: Phone
+      value: (+886) 975-184-263
 
 - title: Education
   type: time_table
