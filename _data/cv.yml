@@ -60,7 +60,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: Outstanding Students Conference Travel Grant
+      year: 2026
+      description: Foundation For The Advancement of Outstanding Scholarship (FAOS)
+    - title: Honorable Mention
+      year: 2023
+      description: Cell-based Digital Circuit Design Category, Integrated Circuits Design Contest, Ministry of Education, Taiwan
+    - title: Graduated with Distinction
+      year: 2023
+      description: NTHU
+
+      
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
