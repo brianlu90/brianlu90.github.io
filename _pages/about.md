@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="font-weight: bold;"> Seeking PhD opportunities starting in Fall 2027! Please feel free to reach out at [brianlu90@gmail.com]. </span>
+subtitle: Seeking PhD opportunities starting in Fall 2027! Please feel free to reach out at [brianlu90@gmail.com].
 
 profile:
   align: right
