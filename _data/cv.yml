@@ -39,17 +39,23 @@
       institution: Digital Sound and People Group, NTHU
       year: 07.2021 - 06.2022
       description:
-        - Advisor - Prof. Chao-Tsung Huang
+        - Advisor - Prof. Yi-Wen Liu
         - title: Project
           contents:
             - Detection and Analysis of the Hand Movement in Piano Playing with Triboelectric Nanogenerators
 
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant
+      year: 09.2024 - 01.2025
+      description: Integrated Circuit Design Laboratory, NTHU
+    - title: Teaching Assistant
+      year: 09.2024 - 01.2025
+      description: Introduction to Semiconductor Design, NTHU
+    - title: Teaching Assistant
+      year: 02.2024 - 06.2024
+      description: Advanced Digital Design Flow, NTHU
 
 - title: Honors and Awards
   type: time_table
