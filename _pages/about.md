@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Seeking a PhD position starting from 2027 Fall.
+subtitle: Seeking a PhD position starting from Fall 2027.
 
 profile:
   align: right
