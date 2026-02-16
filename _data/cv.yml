@@ -69,28 +69,3 @@
     - title: Graduated with Distinction
       year: 2023
       description: NTHU
-
-      
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
